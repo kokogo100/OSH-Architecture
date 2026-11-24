@@ -1,5 +1,7 @@
 # 32TB 교차점 (The 32 TB Crossover)
 
+<p align="center"><img src="./assets/osh-banner.png" alt="32TB 교차점: 콜드 데이터가 약 32TB를 넘으면 SSD 계층을 단 로봇 없는 블루레이 아카이브가 하드디스크보다 싸다" width="100%"></p>
+
 <p align="center">
   <strong>2026년 저장장치 가격 위기 속 HDD 콜드 스토리지를 대체하는 로봇 없는 개인용 블루레이 계층형 아카이브</strong><br>
   <em>OSH 이론 (Optical Shelf Hierarchy, 광디스크 선반 계층), 창안: <a href="https://axnli.com">AXNli Inc.</a></em>

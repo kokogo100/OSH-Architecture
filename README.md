@@ -1,5 +1,7 @@
 # The 32 TB Crossover
 
+<p align="center"><img src="./assets/osh-banner.png" alt="The 32 TB Crossover: past about 32 TB of cold data, a robot-free Blu-ray archive with an SSD tier costs less than hard disks" width="100%"></p>
+
 <p align="center">
   <strong>A Robot-Free Blu-ray Archive with SSD Tiering as a Personal Alternative to HDD Cold Storage in the 2026 Storage Price Crisis</strong><br>
   <em>OSH Theory (Optical Shelf Hierarchy), originated by <a href="https://axnli.com">AXNli Inc.</a></em>
